@@ -1,0 +1,118 @@
+{
+ "stem": "Remko",
+ "voice_id": "vjeU1L5RIGPyrwuboFwz",
+ "model": "eleven_v4",
+ "hoofdstukken": [
+  {
+   "nr": "0",
+   "titel": "Opening",
+   "vwo": false,
+   "segmenten": [
+    "h0-1"
+   ],
+   "bestand": "podcasts/sdt/3-hoe-klinkt-motivatie/audio/0-0.mp3",
+   "duur": 31
+  },
+  {
+   "nr": "1",
+   "titel": "Verandertaal",
+   "vwo": false,
+   "segmenten": [
+    "h1-1",
+    "h1-2"
+   ],
+   "bestand": "podcasts/sdt/3-hoe-klinkt-motivatie/audio/1-1.mp3",
+   "duur": 95
+  },
+  {
+   "nr": "2",
+   "titel": "Kleine woorden",
+   "vwo": false,
+   "segmenten": [
+    "h2-1",
+    "h2-2"
+   ],
+   "bestand": "podcasts/sdt/3-hoe-klinkt-motivatie/audio/2-2.mp3",
+   "duur": 85
+  },
+  {
+   "nr": "3",
+   "titel": "Een taalmodel als tweede codeur",
+   "vwo": false,
+   "segmenten": [
+    "h3-1",
+    "h3-2"
+   ],
+   "bestand": "podcasts/sdt/3-hoe-klinkt-motivatie/audio/3-3.mp3",
+   "duur": 113
+  },
+  {
+   "nr": "4",
+   "titel": "Afsluiting: jouw plek",
+   "vwo": false,
+   "segmenten": [
+    "h4-1"
+   ],
+   "bestand": "podcasts/sdt/3-hoe-klinkt-motivatie/audio/4-4.mp3",
+   "duur": 51
+  }
+ ],
+ "segmenten": [
+  {
+   "id": "h0-1",
+   "tekst": "'Ik moet dit nog doen.' 'Ik wil dit snappen.' Twee korte zinnen. Hoor je het verschil in motivatie?\n\nWaarschijnlijk wel. De vraag is of je dat verschil ook betrouwbaar kunt meten. En of een taalmodel het kan. In deze aflevering drie stappen. Eén: hoe hulpverleners al jaren motivatie in gesprekken coderen. Twee: wat kleine woorden verraden. Drie: een taalmodel als tweede codeur. En aan het eind: waar jouw onderzoek past.",
+   "stem": "'Ik moet dit nog doen.' 'Ik wil dit snappen.' Twee korte zinnen. Hoor je het verschil in motivatie?\n\nWaarschijnlijk wel. De vraag is of je dat verschil ook betrouwbaar kunt meten. En of een taalmodel het kan. In deze aflevering drie stappen. Eén: hoe hulpverleners al jaren motivatie in gesprekken coderen. Twee: wat kleine woorden verraden. Drie: een taalmodel als tweede codeur. En aan het eind: waar jouw onderzoek past.",
+   "stilte": 0,
+   "generation_id": "8yeNCXuCx9T1fUvdwjo9"
+  },
+  {
+   "id": "h1-1",
+   "tekst": "Deel één. Verandertaal.\n\nHet best uitgewerkte voorbeeld komt uit de hulpverlening. Daar bestaat een gespreksstijl voor mensen die twijfelen of ze iets willen veranderen, bijvoorbeeld hun drankgebruik. Die stijl heet motiverende gespreksvoering. Anders gezegd: de hulpverlener duwt niet, maar helpt iemand zijn eigen redenen voor verandering te verwoorden.\n\nOnderzoekers ontwikkelden er een codeersysteem voor. Het codeert twee kanten van het gesprek. Wat de hulpverlener doet, zoals een open vraag stellen, iets samenvatten of iemand bevestigen. En wat de cliënt zegt. Zegt die iets in de richting van verandering, zoals 'Misschien moet ik minder drinken'? Dat heet verandertaal. Zegt die iets tegen verandering, zoals 'Ik heb geen probleem'? Dat heet behoudtaal.\n\nWat is 'Misschien moet ik eens anders gaan plannen': verandertaal of behoudtaal?",
+   "stem": "Deel één. Verandertaal.\n\nHet best uitgewerkte voorbeeld komt uit de hulpverlening. Daar bestaat een gespreksstijl voor mensen die twijfelen of ze iets willen veranderen, bijvoorbeeld hun drankgebruik. Die stijl heet motiverende gespreksvoering. Anders gezegd: de hulpverlener duwt niet, maar helpt iemand zijn eigen redenen voor verandering te verwoorden.\n\nOnderzoekers ontwikkelden er een codeersysteem voor. Het codeert twee kanten van het gesprek. Wat de hulpverlener doet, zoals een open vraag stellen, iets samenvatten of iemand bevestigen. En wat de cliënt zegt. Zegt die iets in de richting van verandering, zoals 'Misschien moet ik minder drinken'? Dat heet verandertaal. Zegt die iets tegen verandering, zoals 'Ik heb geen probleem'? Dat heet behoudtaal.\n\nWat is 'Misschien moet ik eens anders gaan plannen': verandertaal of behoudtaal?",
+   "stilte": 3,
+   "generation_id": "9qRyHUTPVQUKdyUNHKJM"
+  },
+  {
+   "id": "h1-2",
+   "tekst": "Verandertaal.\n\nMet dit systeem kun je per uiting van de hulpverlener nagaan wat de cliënt daarna zegt. Bij tweeënnegentig studenten bleek bevestigen het enige gedrag dat verandertaal verhoogde én behoudtaal verlaagde. Het werkt ook bij jongeren: honderdnegenentwintig opgenomen groepssessies met adolescenten zijn zo gecodeerd. En motiverende gespreksvoering gaat er zelf van uit dat verandering verloopt via het versterken van intrinsieke motivatie. Het sluit dus direct aan op de zelfdeterminatietheorie.\n\nKort gezegd: motivatie in gesprekken is te coderen, aan beide kanten van het gesprek. En dat principe, uiting gevolgd door reactie, is precies wat jij nodig hebt.",
+   "stem": "Verandertaal.\n\nMet dit systeem kun je per uiting van de hulpverlener nagaan wat de cliënt daarna zegt. Bij tweeënneguntig studenten bleek bevestigen het enige gedrag dat verandertaal verhoogde én behoudtaal verlaagde. Het werkt ook bij jongeren: honderdnegenentwintig opgenomen groepssessies met adolescenten zijn zo gecodeerd. En motiverende gespreksvoering gaat er zelf van uit dat verandering verloopt via het versterken van intrinsieke motivatie. Het sluit dus direct aan op de zelfdeterminatietheorie.\n\nKort gezegd: motivatie in gesprekken is te coderen, aan beide kanten van het gesprek. En dat principe, uiting gevolgd door reactie, is precies wat jij nodig hebt.",
+   "stilte": 0,
+   "generation_id": "UA5gv4aTHmgQLV42VDkd"
+  },
+  {
+   "id": "h2-1",
+   "tekst": "Deel twee. Kleine woorden.\n\nPsychologen ontdekten iets onverwachts. Niet de grote, inhoudelijke woorden zeggen het meest over je psychologische toestand, maar de kleine. 'Ik', 'wij', 'niet', 'maar'. Die kleine woorden heten functiewoorden. Anders gezegd: functiewoorden zijn het cement tussen de stenen van een zin, en juist dat cement verraadt hoe iemand denkt.\n\nEr bestaat software die zulke woorden telt in psychologische categorieën. Voornaamwoorden, emotiewoorden, woorden over anderen.\n\nWat zou meer zeggen over verbondenheid: hoe vaak iemand 'wij' zegt, of hoe vaak iemand 'school' zegt?",
+   "stem": "Deel twee. Kleine woorden.\n\nPsychologen ontdekten iets onverwachts. Niet de grote, inhoudelijke woorden zeggen het meest over je psychologische toestand, maar de kleine. 'Ik', 'wij', 'niet', 'maar'. Die kleine woorden heten functiewoorden. Anders gezegd: functiewoorden zijn het cement tussen de stenen van een zin, en juist dat cement verraadt hoe iemand denkt.\n\nEr bestaat software die zulke woorden telt in psychologische categorieën. Voornaamwoorden, emotiewoorden, woorden over anderen.\n\nWat zou meer zeggen over verbondenheid: hoe vaak iemand 'wij' zegt, of hoe vaak iemand 'school' zegt?",
+   "stilte": 3,
+   "generation_id": "mm2tbmwb0vYtfOwpL7zK"
+  },
+  {
+   "id": "h2-2",
+   "tekst": "'Wij'. Het gaat om de relatie, niet om het onderwerp.\n\nVoor jouw onderzoek kun je zo een paar kandidaten bedenken. 'Wij' als teken van verbondenheid. 'Moeten', 'willen' en 'mogen' als tekens van autonomie of controle. Let wel: dat zijn ideeën om te toetsen, nog geen bewezen markers.\n\nIs dit al eens automatisch gedaan? Een beetje. In het jaar 2021 zette een team als eerste een test op om de drie behoeften automatisch te herkennen in korte Engelse berichten van internet. En in het jaar 2025 schreven onderzoekers dat taaltechnologie deze theorie nog nauwelijks gebruikt.\n\nKort gezegd: kleine woorden verraden veel. Maar bijna al het werk gaat over geschreven Engelse tekst van internet, niet over gesproken Nederlands.",
+   "stem": "'Wij'. Het gaat om de relatie, niet om het onderwerp.\n\nVoor jouw onderzoek kun je zo een paar kandidaten bedenken. 'Wij' als teken van verbondenheid. 'Moeten', 'willen' en 'mogen' als tekens van autonomie of controle. Let wel: dat zijn ideeën om te toetsen, nog geen bewezen markers.\n\nIs dit al eens automatisch gedaan? Een beetje. In het jaar 2021 zette een team als eerste een test op om de drie behoeften automatisch te herkennen in korte Engelse berichten van internet. En in het jaar 2025 schreven onderzoekers dat taaltechnologie deze theorie nog nauwelijks gebruikt.\n\nKort gezegd: kleine woorden verraden veel. Maar bijna al het werk gaat over geschreven Engelse tekst van internet, niet over gesproken Nederlands.",
+   "stilte": 0,
+   "generation_id": "J362g6mX7O8r12fxVdpc"
+  },
+  {
+   "id": "h3-1",
+   "tekst": "Deel drie. Een taalmodel als tweede codeur.\n\nIn kwalitatief onderzoek laat je gesprekken vaak door twee mensen coderen. Daarna kijk je hoe vaak ze het eens zijn, gecorrigeerd voor toeval. Die maat heet kappa. Anders gezegd: kappa is nul als twee codeurs het alleen bij toeval eens zijn, en één als ze het altijd eens zijn.\n\nHet verrassende is dat twee getrainde mensen vaak maar rond de helft van die schaal uitkomen.\n\nKan een taalmodel de tweede codeur zijn? De resultaten lopen uiteen. Bij goed omschreven codes haalt een sterk model vaak hetzelfde niveau als mensen onderling. Een ouder, zwakker model bleef in een van die studies steken rond een derde. En acht modellen samen, met een meerderheidsstem, haalden in één studie zelfs bijna negen tiende, op taken waar mensen onderling lager uitkwamen.\n\nEn de zelfdeterminatietheorie? Er is een studie die uitspraken van leraren in de klas codeerde volgens deze theorie, door mensen én door een taalmodel. Het model gaf iets andere uitkomsten, maar sprak de menselijke codering niet tegen.\n\nHier is het belangrijke punt. Niet alleen het model bepaalt hoe goed het werkt. Het codeboek bepaalt het. Een codeboek dat voor mensen geschreven is, moet je herschrijven voor een model. En als je het model laat uitleggen waarom het een code kiest, gaat de kwaliteit duidelijk omhoog.\n\nDenk even na. Waarom zou je een taalmodel als tweede codeur gebruiken, en niet als enige?",
+   "stem": "Deel drie. Een taalmodel als tweede codeur.\n\nIn kwalitatief onderzoek laat je gesprekken vaak door twee mensen coderen. Daarna kijk je hoe vaak ze het eens zijn, gecorrigeerd voor toeval. Die maat heet kappa. Anders gezegd: kappa is nul als twee codeurs het alleen bij toeval eens zijn, en één als ze het altijd eens zijn.\n\nHet verrassende is dat twee getrainde mensen vaak maar rond de helft van die schaal uitkomen.\n\nKan een taalmodel de tweede codeur zijn? De resultaten lopen uiteen. Bij goed omschreven codes haalt een sterk model vaak hetzelfde niveau als mensen onderling. Een ouder, zwakker model bleef in een van die studies steken rond een derde. En acht modellen samen, met een meerderheidsstem, haalden in één studie zelfs bijna negen tiende, op taken waar mensen onderling lager uitkwamen.\n\nEn de zelfdeterminatietheorie? Er is een studie die uitspraken van leraren in de klas codeerde volgens deze theorie, door mensen én door een taalmodel. Het model gaf iets andere uitkomsten, maar sprak de menselijke codering niet tegen.\n\nHier is het belangrijke punt. Niet alleen het model bepaalt hoe goed het werkt. Het codeboek bepaalt het. Een codeboek dat voor mensen geschreven is, moet je herschrijven voor een model. En als je het model laat uitleggen waarom het een code kiest, gaat de kwaliteit duidelijk omhoog.\n\nDenk even na. Waarom zou je een taalmodel als tweede codeur gebruiken, en niet als enige?",
+   "stilte": 4,
+   "generation_id": "QskER5NqzTAv3a2N8NA9"
+  },
+  {
+   "id": "h3-2",
+   "tekst": "Omdat interpretatie mensenwerk blijft. Er is zelfs een open brief van onderzoekers die vinden dat kwalitatief onderzoek helemaal menselijk moet blijven, omdat een model niet kan reflecteren op zijn eigen rol. Je hoeft het daar niet mee eens te zijn. Maar het pleit voor een opzet waarin jij codeert, en het model controleert en opschaalt.\n\nKort gezegd: een taalmodel kan een goede tweede codeur zijn, mits het codeboek scherp is en jij de eindbeslissing houdt.",
+   "stem": "Omdat interpretatie mensenwerk blijft. Er is zelfs een open brief van onderzoekers die vinden dat kwalitatief onderzoek helemaal menselijk moet blijven, omdat een model niet kan reflecteren op zijn eigen rol. Je hoeft het daar niet mee eens te zijn. Maar het pleit voor een opzet waarin jij codeert, en het model controleert en opschaalt.\n\nKort gezegd: een taalmodel kan een goede tweede codeur zijn, mits het codeboek scherp is en jij de eindbeslissing houdt.",
+   "stilte": 0,
+   "generation_id": "1nq8v69cbPDPTdGupEt7"
+  },
+  {
+   "id": "h4-1",
+   "tekst": "Terug naar de twee zinnen van het begin. 'Ik moet dit nog doen.' 'Ik wil dit snappen.' Het verschil is hoorbaar, en het is in principe te meten.\n\nHier ligt het gat in de literatuur. Er is onderzoek naar de taal van leraren, naar online tekst en naar hulpverleners. Maar er is bijna niets over hoe leerlingen praten in een coachgesprek, in het Nederlands, in onderwijs met veel vrijheid. Precies die gesprekken voer jij elke week.\n\nDrie dingen om te onthouden. Eén: verandertaal laat zien dat je motivatie in gesprekken kunt coderen, aan beide kanten. Twee: kleine woorden als 'wij' en 'moeten' zijn veelbelovende markers, maar nog niet bewezen. Drie: een taalmodel werkt als tweede codeur, als het codeboek scherp is.\n\nLeg nu in één zin hardop uit welke onderzoeksvraag jij zou willen stellen over je eigen coachgesprekken.",
+   "stem": "Terug naar de twee zinnen van het begin. 'Ik moet dit nog doen.' 'Ik wil dit snappen.' Het verschil is hoorbaar, en het is in principe te meten.\n\nHier ligt het gat in de literatuur. Er is onderzoek naar de taal van leraren, naar online tekst en naar hulpverleners. Maar er is bijna niets over hoe leerlingen praten in een coachgesprek, in het Nederlands, in onderwijs met veel vrijheid. Precies die gesprekken voer jij elke week.\n\nDrie dingen om te onthouden. Eén: verandertaal laat zien dat je motivatie in gesprekken kunt coderen, aan beide kanten. Twee: kleine woorden als 'wij' en 'moeten' zijn veelbelovende markers, maar nog niet bewezen. Drie: een taalmodel werkt als tweede codeur, als het codeboek scherp is.\n\nLeg nu in één zin hardop uit welke onderzoeksvraag jij zou willen stellen over je eigen coachgesprekken.",
+   "stilte": 0,
+   "generation_id": "XimAEAQCOxFxLaVe0neh"
+  }
+ ]
+}

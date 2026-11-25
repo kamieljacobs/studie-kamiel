@@ -1,0 +1,118 @@
+{
+ "stem": "Remko",
+ "voice_id": "vjeU1L5RIGPyrwuboFwz",
+ "model": "eleven_v4",
+ "hoofdstukken": [
+  {
+   "nr": "0",
+   "titel": "Opening",
+   "vwo": false,
+   "segmenten": [
+    "h0-1"
+   ],
+   "bestand": "podcasts/sdt/2-motivatie-in-de-klas/audio/0-0.mp3",
+   "duur": 29
+  },
+  {
+   "nr": "1",
+   "titel": "Wat werkt in de klas",
+   "vwo": false,
+   "segmenten": [
+    "h1-1",
+    "h1-2"
+   ],
+   "bestand": "podcasts/sdt/2-motivatie-in-de-klas/audio/1-1.mp3",
+   "duur": 110
+  },
+  {
+   "nr": "2",
+   "titel": "Ruimte en houvast",
+   "vwo": false,
+   "segmenten": [
+    "h2-1",
+    "h2-2",
+    "h2-3"
+   ],
+   "bestand": "podcasts/sdt/2-motivatie-in-de-klas/audio/2-2.mp3",
+   "duur": 107
+  },
+  {
+   "nr": "3",
+   "titel": "Een dans van twee",
+   "vwo": false,
+   "segmenten": [
+    "h3-1"
+   ],
+   "bestand": "podcasts/sdt/2-motivatie-in-de-klas/audio/3-3.mp3",
+   "duur": 78
+  },
+  {
+   "nr": "4",
+   "titel": "Afsluiting",
+   "vwo": false,
+   "segmenten": [
+    "h4-1"
+   ],
+   "bestand": "podcasts/sdt/2-motivatie-in-de-klas/audio/4-4.mp3",
+   "duur": 47
+  }
+ ],
+ "segmenten": [
+  {
+   "id": "h0-1",
+   "tekst": "Stel dat je een leraar een paar workshops geeft. Niet over de lesstof, maar over hoe je praat met leerlingen. Kan dat iets veranderen aan pesten in de klas?\n\nHet antwoord is ja, en dat zegt veel over hoe krachtig deze theorie in de praktijk is. In deze aflevering drie stappen. Eén: wat het onderzoek in klassen laat zien. Twee: waarom autonomie en structuur geen tegenpolen zijn. Drie: coaching als een dans van twee.",
+   "stem": "Stel dat je een leraar een paar workshops geeft. Niet over de lesstof, maar over hoe je praat met leerlingen. Kan dat iets veranderen aan pesten in de klas?\n\nHet antwoord is ja, en dat zegt veel over hoe krachtig deze theorie in de praktijk is. In deze aflevering drie stappen. Eén: wat het onderzoek in klassen laat zien. Twee: waarom autonomie en structuur geen tegenpolen zijn. Drie: coaching als een dans van twee.",
+   "stilte": 0,
+   "generation_id": "Igosb6qtLRjeIvxZnkYu"
+  },
+  {
+   "id": "h1-1",
+   "tekst": "Deel één. Wat werkt in de klas.\n\nEen leraar die leerlingen de ruimte geeft om achter hun eigen leren te staan, noemen onderzoekers autonomie-ondersteunend. Het begint met een houding. Je kijkt vanuit de leerling, met een begripvolle toon. Daaruit volgt gedrag. Je biedt keuzes, je legt uit waarom iets zinvol is, en je erkent het perspectief van de leerling. Anders gezegd: een autonomie-ondersteunende leraar stuurt niet door te duwen, maar door te verbinden met wat de leerling zelf belangrijk vindt.\n\nTwee onderzoekers, Reeve en Cheon, zetten eenenvijftig van zulke trainingen op een rij. De meeste waren gerandomiseerde experimenten. De conclusie had twee delen. Leraren kunnen dit leren. En als ze het geleerd hebben, profiteren leerlingen, de leraar zelf én het klasklimaat.\n\nHoe ver dat gaat, liet een experiment in achtenveertig klassen zien. De helft van de leraren kreeg een workshop autonomie-ondersteuning. Daarna kwamen leerlingen vaker op voor een klasgenoot die gepest werd. En het pesten nam sterk af.\n\nNu een vraag. Een grote meta-analyse bundelde honderdvierenveertig studies, met ruim negenenzeventigduizend leerlingen. Welke behoefte voorspelde autonome motivatie het sterkst, denk je? Autonomie, of competentie?",
+   "stem": "Deel één. Wat werkt in de klas.\n\nEen leraar die leerlingen de ruimte geeft om achter hun eigen leren te staan, noemen onderzoekers autonomie-ondersteunend. Het begint met een houding. Je kijkt vanuit de leerling, met een begripvolle toon. Daaruit volgt gedrag. Je biedt keuzes, je legt uit waarom iets zinvol is, en je erkent het perspectief van de leerling. Anders gezegd: een autonomie-ondersteunende leraar stuurt niet door te duwen, maar door te verbinden met wat de leerling zelf belangrijk vindt.\n\nTwee onderzoekers, Riev en Tsjon, zetten eenenvijftig van zulke trainingen op een rij. De meeste waren gerandomiseerde experimenten. De conclusie had twee delen. Leraren kunnen dit leren. En als ze het geleerd hebben, profiteren leerlingen, de leraar zelf én het klasklimaat.\n\nHoe ver dat gaat, liet een experiment in achtenveertig klassen zien. De helft van de leraren kreeg een workshop autonomie-ondersteuning. Daarna kwamen leerlingen vaker op voor een klasgenoot die gepest werd. En het pesten nam sterk af.\n\nNu een vraag. Een grote meta-analyse bundelde honderdvierenveertig studies, met ruim negenenzeventigduizend leerlingen. Welke behoefte voorspelde autonome motivatie het sterkst, denk je? Autonomie, of competentie?",
+   "stilte": 4,
+   "generation_id": "uI76aSaRF7sGMvVVf6cX"
+  },
+  {
+   "id": "h1-2",
+   "tekst": "Competentie. Daarna kwam autonomie, en dan verbondenheid. Dat is verrassend, want de theorie draagt autonomie zo nadrukkelijk in haar naam. Maar het is logisch. Wie steeds merkt dat het niet lukt, gaat een taak moeilijk echt omarmen.\n\nNog één bevinding. Leraren die zelf goed in hun vel zitten, worden door leerlingen als steunender gezien. Je eigen behoeften tellen dus mee.\n\nKort gezegd: autonomie-ondersteuning is aan te leren, en het werkt. Competentie is de sterkste motor van autonome motivatie.",
+   "stem": "Competentie. Daarna kwam autonomie, en dan verbondenheid. Dat is verrassend, want de theorie draagt autonomie zo nadrukkelijk in haar naam. Maar het is logisch. Wie steeds merkt dat het niet lukt, gaat een taak moeilijk echt omarmen.\n\nNog één bevinding. Leraren die zelf goed in hun vel zitten, worden door leerlingen als steunender gezien. Je eigen behoeften tellen dus mee.\n\nKort gezegd: autonomie-ondersteuning is aan te leren, en het werkt. Competentie is de sterkste motor van autonome motivatie.",
+   "stilte": 0,
+   "generation_id": "8sGVIMDTxT0PyLKDbRZU"
+  },
+  {
+   "id": "h2-1",
+   "tekst": "Deel twee. Ruimte en houvast.\n\nVeel mensen denken dat autonomie geven betekent: loslaten. Weinig regels, weinig sturing. Maar dat klopt niet.\n\nEr is een tweede begrip nodig. Duidelijke verwachtingen, een heldere opbouw en feedback over hoe je vooruitgaat. Dat heet structuur. Anders gezegd: structuur is houvast. Het voedt vooral de behoefte aan competentie.\n\nIs structuur het tegenovergestelde van autonomie? Ja, of nee?",
+   "stem": "Deel twee. Ruimte en houvast.\n\nVeel mensen denken dat autonomie geven betekent: loslaten. Weinig regels, weinig sturing. Maar dat klopt niet.\n\nEr is een tweede begrip nodig. Duidelijke verwachtingen, een heldere opbouw en feedback over hoe je vooruitgaat. Dat heet structuur. Anders gezegd: structuur is houvast. Het voedt vooral de behoefte aan competentie.\n\nIs structuur het tegenovergestelde van autonomie? Ja, of nee?",
+   "stilte": 3,
+   "generation_id": "XnMursoCPLQ0MNucU37e"
+  },
+  {
+   "id": "h2-2",
+   "tekst": "Nee. Het tegenovergestelde van autonomie-ondersteuning is controle: druk, dreigen, schuldgevoel aanpraten. Structuur is iets anders.\n\nEen recente meta-analyse keek precies naar die combinatie. De conclusie: autonomie-ondersteuning en structuur werken het best samen. Ze versterken elkaar.\n\nHoe klinkt dat in een coachgesprek? Vergelijk twee zinnen. 'Je moet dit vrijdag af hebben, anders heb je een probleem.' En: 'Vrijdag is de deadline. Hoe ga jij het aanpakken, en waar heb je hulp bij nodig?' In beide zinnen staat dezelfde deadline. De structuur is gelijk. Maar de eerste zin controleert, en de tweede nodigt uit.\n\nDenk even na. In het Agora-onderwijs krijgen leerlingen veel vrijheid. Wat is dan het grootste risico: te veel controle, of te weinig structuur?",
+   "stem": "Nee. Het tegenovergestelde van autonomie-ondersteuning is controle: druk, dreigen, schuldgevoel aanpraten. Structuur is iets anders.\n\nEen recente meta-analyse keek precies naar die combinatie. De conclusie: autonomie-ondersteuning en structuur werken het best samen. Ze versterken elkaar.\n\nHoe klinkt dat in een coachgesprek? Vergelijk twee zinnen. 'Je moet dit vrijdag af hebben, anders heb je een probleem.' En: 'Vrijdag is de deadline. Hoe ga jij het aanpakken, en waar heb je hulp bij nodig?' In beide zinnen staat dezelfde deadline. De structuur is gelijk. Maar de eerste zin controleert, en de tweede nodigt uit.\n\nDenk even na. In het Agora-onderwijs krijgen leerlingen veel vrijheid. Wat is dan het grootste risico: te veel controle, of te weinig structuur?",
+   "stilte": 4,
+   "generation_id": "77ZRjHjFocLACH5Gz2Ke"
+  },
+  {
+   "id": "h2-3",
+   "tekst": "Dit is een redenering, geen onderzoeksuitkomst. Maar te weinig structuur ligt meer voor de hand. Bij veel vrijheid zonder houvast komt vooral de behoefte aan competentie in de knel. En competentie was nou net de sterkste voorspeller.\n\nKort gezegd: autonomie en structuur zijn geen tegenpolen. Het tegenovergestelde van autonomie is controle, en goede begeleiding combineert ruimte met houvast.",
+   "stem": "Dit is een redenering, geen onderzoeksuitkomst. Maar te weinig structuur ligt meer voor de hand. Bij veel vrijheid zonder houvast komt vooral de behoefte aan competentie in de knel. En competentie was nou net de sterkste voorspeller.\n\nKort gezegd: autonomie en structuur zijn geen tegenpolen. Het tegenovergestelde van autonomie is controle, en goede begeleiding combineert ruimte met houvast.",
+   "stilte": 0,
+   "generation_id": "6rM470GlcK1ol3wRh1wi"
+  },
+  {
+   "id": "h3-1",
+   "tekst": "Deel drie. Een dans van twee.\n\nBijna al dit onderzoek kijkt naar de klas als geheel. Een leraar voor een groep. Maar jij voert vooral gesprekken met één leerling tegelijk. Wat weten we daarover?\n\nIn Groningen verscheen in het jaar 2025 een proefschrift over coaching vanuit deze theorie. Het bijzondere: het keek niet alleen naar de coach, maar naar coach en gecoachte samen, als een paar. Zo'n paar heet een dyade. Anders gezegd: een dyade is een duo dat je als één geheel bestudeert, omdat de een steeds reageert op de ander.\n\nHet onderzoek volgde zulke duo's over meerdere sessies. Hoeveel ruimte de gecoachte nam en hoeveel de coach gaf, bewoog mee met de doelen die veranderden. Autonomie werd dus samen geregeld, als een dans. Dat ging overigens over beginnende leraren, niet over leerlingen.\n\nEr is ook een Amerikaanse studie die zevendeklassers in een Montessori-programma volgde, met drie interviewrondes door het jaar heen. Dat ontwerp lijkt sterk op wat jij in het Agora-onderwijs zou kunnen doen. En onderzoek naar zelfdeterminatie in het Agora-onderwijs zelf? Dat vond het literatuuronderzoek niet.\n\nKort gezegd: coaching is een wisselwerking. De leerling reageert op jou, en jij op de leerling. Voor leerlingen in jouw soort onderwijs is dat nog vrijwel onbekend terrein.",
+   "stem": "Deel drie. Een dans van twee.\n\nBijna al dit onderzoek kijkt naar de klas als geheel. Een leraar voor een groep. Maar jij voert vooral gesprekken met één leerling tegelijk. Wat weten we daarover?\n\nIn Groningen verscheen in het jaar 2025 een proefschrift over coaching vanuit deze theorie. Het bijzondere: het keek niet alleen naar de coach, maar naar coach en gecoachte samen, als een paar. Zo'n paar heet een dyade. Anders gezegd: een dyade is een duo dat je als één geheel bestudeert, omdat de een steeds reageert op de ander.\n\nHet onderzoek volgde zulke duo's over meerdere sessies. Hoeveel ruimte de gecoachte nam en hoeveel de coach gaf, bewoog mee met de doelen die veranderden. Autonomie werd dus samen geregeld, als een dans. Dat ging overigens over beginnende leraren, niet over leerlingen.\n\nEr is ook een Amerikaanse studie die zevendeklassers in een Montessori-programma volgde, met drie interviewrondes door het jaar heen. Dat ontwerp lijkt sterk op wat jij in het Agora-onderwijs zou kunnen doen. En onderzoek naar zelfdeterminatie in het Agora-onderwijs zelf? Dat vond het literatuuronderzoek niet.\n\nKort gezegd: coaching is een wisselwerking. De leerling reageert op jou, en jij op de leerling. Voor leerlingen in jouw soort onderwijs is dat nog vrijwel onbekend terrein.",
+   "stilte": 0,
+   "generation_id": "31XYKpRivd8s4TA0WFgp"
+  },
+  {
+   "id": "h4-1",
+   "tekst": "Terug naar de vraag van het begin. Kan een workshop over hoe je met leerlingen praat iets aan pesten veranderen? Ja. Hoe je praat, vormt de motivatie en het gedrag van een hele klas.\n\nDrie dingen om te onthouden. Eén: autonomie-ondersteuning is aan te leren, en competentie is de sterkste voorspeller van autonome motivatie. Twee: het tegenovergestelde van autonomie is controle, niet structuur. Drie: een coachgesprek is een dans van twee, en die dans is bij leerlingen nog nauwelijks onderzocht.\n\nLeg nu in één zin hardop uit waarom 'vrijdag is de deadline, hoe pak jij het aan?' tegelijk structuur én autonomie biedt.\n\nIn de laatste aflevering gaan we luisteren. Kun je motivatie horen in de woorden van een leerling? En kan een taalmodel dat ook?",
+   "stem": "Terug naar de vraag van het begin. Kan een workshop over hoe je met leerlingen praat iets aan pesten veranderen? Ja. Hoe je praat, vormt de motivatie en het gedrag van een hele klas.\n\nDrie dingen om te onthouden. Eén: autonomie-ondersteuning is aan te leren, en competentie is de sterkste voorspeller van autonome motivatie. Twee: het tegenovergestelde van autonomie is controle, niet structuur. Drie: een coachgesprek is een dans van twee, en die dans is bij leerlingen nog nauwelijks onderzocht.\n\nLeg nu in één zin hardop uit waarom 'vrijdag is de deadline, hoe pak jij het aan?' tegelijk structuur én autonomie biedt.\n\nIn de laatste aflevering gaan we luisteren. Kun je motivatie horen in de woorden van een leerling? En kan een taalmodel dat ook?",
+   "stilte": 0,
+   "generation_id": "FxctW5Hhy1BbSTmFUwgD"
+  }
+ ]
+}
